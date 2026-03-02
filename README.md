@@ -1,4 +1,4 @@
-# didou-autoexec
+# didou-cfg
 here's my personal counter-strike 2 autoexec configuration
 
 full cfg, if you have any questions don't hesitate to ask
